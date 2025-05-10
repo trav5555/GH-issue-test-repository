@@ -4,4 +4,7 @@ labels: ["Project:Cyrodiil", "exterior"]
 body:
 - type: markdown
   attributes:
-    value: "Describe the issue with the exterior you have"
+    value: "text1"
+- type: textarea
+  attributes:
+    label: "text2"
